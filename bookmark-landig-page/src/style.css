@@ -1,0 +1,19 @@
+:root {
+  font-family: Rubik;
+  line-height: 1.5;
+  font-weight: 400;
+
+
+}
+
+
+
+body {
+  margin: 0;
+  display: flex;
+  place-content: center;
+  min-width: 375px;
+  min-height: 100vh;
+  background-color: #5f4444;
+}
+
