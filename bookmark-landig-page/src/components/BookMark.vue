@@ -192,9 +192,475 @@
             favourite websites. Your bookmarks sync between you devices so you
             can access them on the go.
           </p>
+          <div class="divider"></div>
+          <h1 class="bookmark-feature__text_bookmarking">Simple Bookmarking</h1>
+          <div class="divider"></div>
+
+          <h1 class="bookmark-feature__text_searching">Speedy Searching</h1>
+          <div class="divider"></div>
+
+          <h1 class="bookmark-feature__text_sharing">Easy Sharing</h1>
+          <div class="divider"></div>
+          <div class="bookmark-feature__text_image">
+            <span
+              ><svg
+                version="1.1"
+                id="_x36_"
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                viewBox="0 0 512 512"
+                xml:space="preserve"
+              >
+                <g>
+                  <path
+                    style="fill: #626143"
+                    d="M512,16.015v406.666H0.239V65.175H0V19.52h0.478C0.16,18.406,0,17.209,0,16.015
+		C0,7.17,7.171,0,16.015,0h479.97C504.829,0,512,7.17,512,16.015z"
+                  />
+                  <rect
+                    x="9.269"
+                    y="62.678"
+                    style="fill: #ffffff"
+                    width="493.462"
+                    height="349.392"
+                  />
+                  <rect
+                    x="9.269"
+                    y="62.678"
+                    style="opacity: 0.06; fill: #040000"
+                    width="493.462"
+                    height="20.763"
+                  />
+                  <g>
+                    <polygon
+                      style="fill: #f4ae9e"
+                      points="462.397,115.971 462.397,178.019 420.747,178.019 379.338,216.11 311.44,153.665 
+			273.396,188.647 237.87,188.647 237.87,115.971 		"
+                    />
+                    <polygon
+                      style="fill: #f9c98e"
+                      points="462.397,178.019 462.397,247.189 237.87,247.189 237.87,188.647 273.396,188.647 
+			311.44,153.665 379.338,216.11 420.747,178.019 		"
+                    />
+                    <polygon
+                      style="fill: #f8f6bd"
+                      points="462.397,174.365 462.397,182.337 422.755,182.337 379.423,222.075 311.326,159.631 
+			274.966,192.965 237.87,192.965 237.87,184.994 271.36,184.994 311.326,148.364 379.423,210.808 419.149,174.365 		"
+                    />
+                    <ellipse
+                      style="fill: #fdfce2"
+                      cx="312.427"
+                      cy="156.878"
+                      rx="7.995"
+                      ry="7.807"
+                    />
+                    <ellipse
+                      style="fill: #fdfce2"
+                      cx="420.747"
+                      cy="178.019"
+                      rx="7.995"
+                      ry="7.807"
+                    />
+                    <ellipse
+                      style="fill: #fdfce2"
+                      cx="379.251"
+                      cy="215.814"
+                      rx="7.995"
+                      ry="7.807"
+                    />
+                    <ellipse
+                      style="fill: #fdfce2"
+                      cx="274.243"
+                      cy="186.484"
+                      rx="7.995"
+                      ry="7.807"
+                    />
+                  </g>
+                  <g>
+                    <ellipse
+                      style="fill: #7ec165"
+                      cx="125.815"
+                      cy="32.559"
+                      rx="12.141"
+                      ry="12.923"
+                    />
+                    <ellipse
+                      style="fill: #e8cf5f"
+                      cx="81.65"
+                      cy="32.559"
+                      rx="12.141"
+                      ry="12.923"
+                    />
+                    <ellipse
+                      style="fill: #d3566a"
+                      cx="37.485"
+                      cy="32.559"
+                      rx="12.141"
+                      ry="12.923"
+                    />
+                  </g>
+                  <g>
+                    <g>
+                      <rect
+                        x="53.699"
+                        y="305.567"
+                        style="opacity: 0.5; fill: #73778e"
+                        width="76.66"
+                        height="64.006"
+                      />
+                      <g style="opacity: 0.5">
+                        <rect
+                          x="142.537"
+                          y="356.288"
+                          style="fill: #73778e"
+                          width="51.228"
+                          height="8.816"
+                        />
+                        <rect
+                          x="142.537"
+                          y="308.167"
+                          style="fill: #73778e"
+                          width="105.815"
+                          height="9.216"
+                        />
+                        <rect
+                          x="142.537"
+                          y="332.127"
+                          style="fill: #73778e"
+                          width="105.815"
+                          height="9.216"
+                        />
+                      </g>
+                    </g>
+                    <g>
+                      <rect
+                        x="271.77"
+                        y="305.567"
+                        style="opacity: 0.5; fill: #73778e"
+                        width="76.66"
+                        height="64.006"
+                      />
+                      <g style="opacity: 0.5">
+                        <rect
+                          x="360.607"
+                          y="356.288"
+                          style="fill: #73778e"
+                          width="51.228"
+                          height="8.816"
+                        />
+                        <rect
+                          x="360.607"
+                          y="308.167"
+                          style="fill: #73778e"
+                          width="105.815"
+                          height="9.216"
+                        />
+                        <rect
+                          x="360.607"
+                          y="332.127"
+                          style="fill: #73778e"
+                          width="105.815"
+                          height="9.216"
+                        />
+                      </g>
+                    </g>
+                  </g>
+                  <g>
+                    <path
+                      style="fill: #f2a381"
+                      d="M206.196,171.055c-3.329-14.232-10.237-27.39-19.96-38.229
+			c-9.73-10.846-22.283-19.363-36.956-24.252c-1.514-0.505-3.046-0.978-4.604-1.404c-13.785-3.769-27.696-3.962-40.773-1.183
+			c-15.467,3.287-29.758,10.751-41.264,21.503l63.837,64.49l78.9,21.573C209.31,199.163,209.372,184.628,206.196,171.055z"
+                    />
+                    <path
+                      style="fill: #dcde67"
+                      d="M205.375,213.554c3.935-14.391,3.996-28.926,0.821-42.499l-79.721,20.927l57.984,58.577
+			C194.098,240.489,201.44,227.945,205.375,213.554z"
+                    />
+                    <path
+                      style="fill: #648988"
+                      d="M98.992,274.254c-13.645-3.731-25.617-10.54-35.395-19.455c-0.11-0.085-0.206-0.178-0.303-0.271
+			c-11.651-10.701-20.154-24.399-24.59-39.512c-4.359-14.87-4.799-31.097-0.411-47.145c4.388-16.048,13.023-29.793,24.341-40.377
+			l63.841,64.488l-22.805,83.408C102.111,275.051,100.55,274.68,98.992,274.254z"
+                    />
+                    <path
+                      style="fill: #b1d470"
+                      d="M103.67,275.389c15.116,3.257,30.262,2.31,44.152-2.073c0.123-0.044,0.256-0.085,0.379-0.129
+			c13.74-4.401,26.239-12.169,36.26-22.631l-57.682-58.27l-0.067-0.24l-0.09,0.086l-0.147-0.151l-0.113,0.413l-62.765,62.406
+			c9.778,8.914,21.75,15.724,35.395,19.455C100.55,274.68,102.111,275.051,103.67,275.389z"
+                    />
+                  </g>
+                  <g>
+                    <rect
+                      x="429.489"
+                      y="256.97"
+                      style="fill: #71c6cb"
+                      width="32.908"
+                      height="20.313"
+                    />
+                    <rect
+                      x="387.246"
+                      y="256.97"
+                      style="fill: #d8da80"
+                      width="32.908"
+                      height="20.313"
+                    />
+                    <rect
+                      x="345.004"
+                      y="256.97"
+                      style="fill: #d99c65"
+                      width="32.908"
+                      height="20.313"
+                    />
+                    <rect
+                      x="302.761"
+                      y="256.97"
+                      style="fill: #648988"
+                      width="32.908"
+                      height="20.313"
+                    />
+                  </g>
+                </g>
+              </svg>
+            </span>
+          </div>
+          <h1 class="bookmark-manager__text_title">Bookmark in one click</h1>
+          <p class="bookmark-manager__text_paragraph">
+            Organize your bookmarks however you like. Our simple drag-and-drop
+            interfaces gives you a complete control over how you manage you
+            favourite sites.
+          </p>
+          <h1 class="bookmark-feature__text_title">Download the extension</h1>
+          <p class="bookmark-feature__text_paragraph">
+            We've got more browsers in the pipeline. Please do let us know if
+            you've got a favourite you'd lije us to prioritize.
+          </p>
         </div>
+        <article class="card-content">
+          <div class="card-content__chrome">
+            <span class="card-content__chrome_logo"
+              ><svg xmlns="http://www.w3.org/2000/svg" width="102" height="100">
+                <g fill="none">
+                  <path
+                    fill="#E16B5A"
+                    d="M50.768.01s30.01-1.325 45.916 28.249H48.217s-9.154-.296-16.957 10.594c-2.25 4.561-4.65 9.27-1.95 18.538-3.9-6.472-20.708-35.164-20.708-35.164S20.457 1.186 50.768.009z"
+                  />
+                  <path
+                    fill="#FFD464"
+                    d="M95.122 75.095S81.284 101.238 47.21 99.952C51.414 92.82 71.45 58.8 71.45 58.8s4.837-7.626-.875-19.696c-2.903-4.192-11.7-8.586-21.237-10.928 7.67-.075 47.25.005 47.25.005s12.653 20.59-1.466 46.915z"
+                  />
+                  <path
+                    fill="#74B340"
+                    d="M6.628 75.294s-16.17-24.825 2.004-53.116l24.225 41.163s4.314 7.92 17.832 9.104c5.153-.368 10.514-.682 17.351-7.607C64.27 71.387 47.327 100 47.327 100s-24.51.448-40.7-24.706z"
+                  />
+                  <ellipse
+                    cx="50.646"
+                    cy="50.406"
+                    fill="#FFF"
+                    rx="23.064"
+                    ry="22.656"
+                  />
+                  <ellipse
+                    cx="50.638"
+                    cy="50.406"
+                    fill="#2995CC"
+                    rx="18.292"
+                    ry="17.969"
+                  />
+                  <path
+                    fill="#268CBF"
+                    d="M50.643 32.441c-.364 0-.724.014-1.082.034 9.598.55 17.209 8.369 17.209 17.934 0 9.568-7.611 17.386-17.21 17.937.36.02.72.034 1.083.034 10.101 0 18.292-8.046 18.292-17.97 0-9.923-8.19-17.969-18.292-17.969z"
+                  />
+                </g>
+              </svg>
+            </span>
+            <h1 class="card-content__chrome_title">Add to Chrome</h1>
+            <p class="card-content__chrome_paragraph">Minimum version 62</p>
+            <span
+              ><svg xmlns="http://www.w3.org/2000/svg" width="320" height="4">
+                <path
+                  fill="#495DCF"
+                  fill-opacity=".2"
+                  fill-rule="evenodd"
+                  d="M0 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm280 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-17 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-35 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-35 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-35 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-18 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-17 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm122 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-35 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-35 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-70 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM88 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM70 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM53 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM35 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM18 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4z"
+                />
+              </svg>
+            </span>
+            <button class="card-content__button">
+              Add & Install extension
+            </button>
+          </div>
+          <div class="card-content__chrome">
+            <span class="card-content__chrome_logo"
+              ><svg xmlns="http://www.w3.org/2000/svg" width="105" height="100">
+                <path
+                  fill="#FF9800"
+                  d="M105 50c0 28.862-23.513 50-52.5 50S0 76.588 0 47.726c0-9.043 2.33-17.59 6.392-25a.995.995 0 0 1 .23-.366C4.338 18.956 3.334 10.318 9.128 4.541c0 2.411 1.464 6.548 3.104 9.638 1.326 2.457 2.737 4.228 3.741 4 2.284-.543 10.27-.543 11.412 0 1.877-2.405 6.445-9.09 13.703-9.09-4.062 4.045-15.704 18.185 4.567 18.185h4.568L36.52 36.363s1.556 3 0 4.548c-1.732-1.732-9.128 1.862-9.128 6.815s5.296 11.363 15.98 11.363c10.683 0 7.986-4.548 13.696-4.548 5.709 0 6.844 4.548 6.844 4.548-7.855 0-13.558 9.09-22.824 9.09 4.567 3.364 7.58 4.547 13.696 4.547 15.113 0 27.392-12.225 27.392-27.274 0-6.09-2.008-11.683-5.388-16.224a27.414 27.414 0 0 1 10.96 19.498 40.554 40.554 0 0 0 1.279-10.089c0-13.683-5.84-31.776-15.98-38.637C87.655 4.358 105 18.466 105 45.452V50z"
+                />
+              </svg>
+            </span>
+            <h1 class="card-content__chrome_title">Add to Firefox</h1>
+            <p class="card-content__chrome_paragraph">Minimum version 55</p>
+            <span
+              ><svg xmlns="http://www.w3.org/2000/svg" width="320" height="4">
+                <path
+                  fill="#495DCF"
+                  fill-opacity=".2"
+                  fill-rule="evenodd"
+                  d="M0 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm280 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-17 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-35 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-35 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-35 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-18 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-17 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm122 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-35 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-35 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-70 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM88 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM70 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM53 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM35 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM18 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4z"
+                />
+              </svg>
+            </span>
+            <button class="card-content__button">
+              Add & Install extension
+            </button>
+          </div>
+          <div class="card-content__chrome">
+            <span class="card-content__chrome_logo"
+              ><svg xmlns="http://www.w3.org/2000/svg" width="96" height="100">
+                <path
+                  fill="#EB6060"
+                  fill-rule="evenodd"
+                  d="M48 100C21.49 100 0 77.614 0 50S21.49 0 48 0s48 22.386 48 50-21.49 50-48 50zm0-10c13.807 0 25-17.909 25-40S61.807 10 48 10 23 27.909 23 50s11.193 40 25 40z"
+                />
+              </svg>
+            </span>
+            <h1 class="card-content__chrome_title">Add to Opera</h1>
+            <p class="card-content__chrome_paragraph">Minimum version 46</p>
+            <span
+              ><svg xmlns="http://www.w3.org/2000/svg" width="320" height="4">
+                <path
+                  fill="#495DCF"
+                  fill-opacity=".2"
+                  fill-rule="evenodd"
+                  d="M0 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm280 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-17 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-35 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-35 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-35 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-18 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-17 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm122 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-35 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-35 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-70 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM88 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM70 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM53 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM35 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM18 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4z"
+                />
+              </svg>
+            </span>
+            <button class="card-content__button">
+              Add & Install extension
+            </button>
+          </div>
+          <div class="bookmark-feature__text">
+            <h1 class="bookmark-feature__text_title">
+              Frequent Asked Questions
+            </h1>
+            <p class="bookmark-feature__text_paragraph">
+              Here are some of our FAQS. If you have any other questions you'd
+              like answered please feel free to email us.
+            </p>
+          </div>
+        </article>
+        <article class="frequently-asked">
+          <ul class="frequently-asked__questions">
+            <li class="frequently-asked__questions_items">
+              <p>What is Bookmark?</p>
+              <span
+                ><svg xmlns="http://www.w3.org/2000/svg" width="18" height="12">
+                  <path
+                    fill="none"
+                    stroke="#5267DF"
+                    stroke-width="3"
+                    d="M1 1l8 8 8-8"
+                  />
+                </svg>
+              </span>
+            </li>
+            <div class="divider"></div>
+            <li class="frequently-asked__questions_items">
+              <p>How can I request a new browser?</p>
+              <span
+                ><svg xmlns="http://www.w3.org/2000/svg" width="18" height="12">
+                  <path
+                    fill="none"
+                    stroke="#5267DF"
+                    stroke-width="3"
+                    d="M1 1l8 8 8-8"
+                  />
+                </svg>
+              </span>
+            </li>
+            <div class="divider"></div>
+            <li class="frequently-asked__questions_items">
+              <p>What is Bookmark?</p>
+              <span
+                ><svg xmlns="http://www.w3.org/2000/svg" width="18" height="12">
+                  <path
+                    fill="none"
+                    stroke="#5267DF"
+                    stroke-width="3"
+                    d="M1 1l8 8 8-8"
+                  />
+                </svg>
+              </span>
+            </li>
+            <div class="divider"></div>
+            <li class="frequently-asked__questions_items">
+              <p>Is there a mobile app?</p>
+              <span
+                ><svg xmlns="http://www.w3.org/2000/svg" width="18" height="12">
+                  <path
+                    fill="none"
+                    stroke="#5267DF"
+                    stroke-width="3"
+                    d="M1 1l8 8 8-8"
+                  />
+                </svg>
+              </span>
+            </li>
+            <div class="divider"></div>
+            <li class="frequently-asked__questions_items">
+              <p>What about other Chromium browser?</p>
+              <span
+                ><svg xmlns="http://www.w3.org/2000/svg" width="18" height="12">
+                  <path
+                    fill="none"
+                    stroke="#5267DF"
+                    stroke-width="3"
+                    d="M1 1l8 8 8-8"
+                  />
+                </svg>
+              </span>
+            </li>
+            <div class="divider"></div>
+            <button class="frequently-asked__questions_button">
+              More info
+            </button>
+          </ul>
+        </article>
       </main>
     </aside>
+    <footer class="footer">
+      <article class="footer__message">
+        <p>35.000 + ALREADY JOINED</p>
+        <h1>Stay up-to-date with what we're doing</h1>
+        <input type="text" class="footer__input" placeholder="E-mail" />
+        <button class="footer__button">Contact Us</button>
+      </article>
+      <article class="footer__bookmark">
+        <span
+          ><svg width="148" height="25" xmlns="http://www.w3.org/2000/svg">
+            <g fill="none" fill-rule="evenodd">
+              <path
+                d="M37 6.299h5.227c.746 0 1.434.155 2.062.466.629.311 1.123.735 1.484 1.27s.542 1.12.542 1.754c0 .672-.165 1.254-.495 1.746-.33.491-.762.868-1.297 1.129v.15c.697.248 1.25.643 1.661 1.185.41.541.616 1.191.616 1.95 0 .735-.196 1.385-.588 1.951a3.817 3.817 0 0 1-1.587 1.307c-.665.305-1.403.457-2.212.457H37V6.299zm5.04 5.45c.548 0 .986-.152 1.316-.457.33-.305.495-.688.495-1.148 0-.448-.159-.824-.476-1.13-.318-.304-.738-.457-1.26-.457H39.52v3.192h2.52zm.28 5.619c.61 0 1.086-.159 1.428-.476.342-.317.513-.731.513-1.241 0-.51-.174-.927-.522-1.251-.349-.324-.847-.485-1.494-.485H39.52v3.453h2.8zm12.927 2.595c-1.307 0-2.492-.308-3.556-.924a6.711 6.711 0 0 1-2.511-2.53c-.61-1.07-.915-2.246-.915-3.528 0-1.281.305-2.457.915-3.528a6.711 6.711 0 0 1 2.51-2.529C52.756 6.308 53.94 6 55.248 6c1.306 0 2.492.308 3.556.924a6.711 6.711 0 0 1 2.51 2.53c.61 1.07.915 2.246.915 3.527 0 1.282-.305 2.458-.915 3.528a6.711 6.711 0 0 1-2.51 2.53c-1.064.616-2.25.924-3.556.924zm0-2.39a4.52 4.52 0 0 0 2.258-.578 4.177 4.177 0 0 0 1.615-1.624c.392-.697.588-1.494.588-2.39 0-.896-.196-1.692-.588-2.389a4.177 4.177 0 0 0-1.615-1.624 4.52 4.52 0 0 0-2.258-.579 4.47 4.47 0 0 0-2.25.579 4.195 4.195 0 0 0-1.605 1.624c-.392.697-.588 1.493-.588 2.39 0 .895.196 1.692.588 2.389a4.195 4.195 0 0 0 1.605 1.624 4.47 4.47 0 0 0 2.25.578zm15.353 2.39c-1.307 0-2.492-.308-3.556-.924a6.711 6.711 0 0 1-2.51-2.53c-.61-1.07-.915-2.246-.915-3.528 0-1.281.305-2.457.914-3.528a6.711 6.711 0 0 1 2.511-2.529C68.108 6.308 69.294 6 70.6 6c1.307 0 2.492.308 3.556.924a6.711 6.711 0 0 1 2.51 2.53c.61 1.07.915 2.246.915 3.527 0 1.282-.305 2.458-.914 3.528a6.711 6.711 0 0 1-2.511 2.53c-1.064.616-2.25.924-3.556.924zm0-2.39a4.52 4.52 0 0 0 2.259-.578 4.177 4.177 0 0 0 1.614-1.624c.392-.697.588-1.494.588-2.39 0-.896-.196-1.692-.588-2.389a4.177 4.177 0 0 0-1.614-1.624 4.52 4.52 0 0 0-2.259-.579 4.47 4.47 0 0 0-2.25.579 4.195 4.195 0 0 0-1.605 1.624c-.392.697-.588 1.493-.588 2.39 0 .895.196 1.692.588 2.389a4.195 4.195 0 0 0 1.606 1.624 4.47 4.47 0 0 0 2.249.578zM79.83 6.3h2.52v5.73h.15l4.89-5.73h3.043v.149L85.6 11.973l5.338 7.542v.149h-3.08l-3.994-5.693-1.512 1.773v3.92h-2.52V6.299zM93.779 6h3.248l3.546 9.39h.15L104.268 6h3.267v13.365h-2.501v-6.589l.15-2.221h-.15l-3.398 8.81h-1.96l-3.416-8.81h-.149l.15 2.221v6.59h-2.483V6zm20.8 0h2.894l5.021 13.365h-2.781l-1.12-3.192h-5.115l-1.12 3.192h-2.781L114.579 6zm3.193 7.859l-1.176-3.36-.486-1.606h-.149l-.485 1.606-1.195 3.36h3.49zM124.553 6h4.872c.871 0 1.646.18 2.324.541.678.361 1.204.862 1.577 1.503.374.64.56 1.366.56 2.175 0 .858-.27 1.62-.812 2.286a4.617 4.617 0 0 1-2.044 1.447l-.018.13 3.584 5.134v.15h-2.894l-3.453-5.022h-1.176v5.021h-2.52V6zm4.853 6.03c.573 0 1.04-.175 1.4-.523.361-.349.542-.79.542-1.326 0-.51-.172-.945-.514-1.306-.342-.361-.806-.542-1.39-.542h-2.371v3.696h2.333zm7.23-6.03h2.52v5.73h.15l4.89-5.73h3.043v.15l-4.835 5.525 5.34 7.541v.15h-3.08l-3.996-5.694-1.512 1.773v3.92h-2.52V6z"
+                fill="#fff"
+                fill-rule="nonzero"
+              />
+              <g>
+                <circle fill="#5267DF" cx="12.5" cy="12.5" r="12.5" />
+                <path
+                  d="M9 9v10l3.54-3.44L16.078 19V9a2 2 0 0 0-2-2H11a2 2 0 0 0-2 2z"
+                  fill="#FFF"
+                />
+              </g>
+            </g>
+          </svg>
+        </span>
+        <h1>FEATURES</h1>
+        <h1>PRICING</h1>
+        <h1>CONTACT</h1>
+      </article>
+    </footer>
   </div>
 </template>
 
@@ -206,123 +672,12 @@ defineProps({
 });
 </script>
 <style lang="scss" scoped>
-@import url("https://fonts.googleapis.com/css2?family=Playwrite+AR:wght@100..400&family=Playwrite+BE+VLG:wght@100..400&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
-
-* {
-  margin: 0;
-}
-.container {
-  box-sizing: border-box;
-  min-width: 375px;
-  display: grid;
-  grid-template-columns: auto;
-  background-color: #fff;
-  min-height: 100vh;
-
-  &-header {
-    padding: 1rem;
-    display: grid;
-    max-width: 375px;
-    grid-template-columns: auto auto;
-    justify-content: space-between;
-    height: 1rem;
-  }
-  &-menu {
-    cursor: pointer;
-  }
-  &-content {
+@media (min-width: 768px) {
+  .footer__bookmark {
     display: flex;
-    justify-content: end;
-    flex-direction: column;
-    padding: 1rem;
-    &__info {
-      padding: 1rem;
-
-      .info {
-        display: flex;
-        justify-content: center;
-      }
-      .bookmark-manager {
-        display: flex;
-        flex-direction: column;
-        justify-content: start;
-        width: 320px;
-
-        &__text {
-          &_title {
-            font-family: Rubik;
-            font-size: 18px;
-            display: flex;
-            text-align: center;
-            justify-content: center;
-            margin: 1rem 0;
-            font-weight: 500;
-          }
-          &_paragraph {
-            font-family: Roboto;
-            font-size: 14px;
-            display: flex;
-            text-align: center;
-            justify-content: center;
-            margin: 1rem 1rem 1rem 2rem;
-            font-weight: 400;
-            color: #a9a4a4;
-          }
-        }
-        &__buttons {
-          display: grid;
-          grid-template-columns: 140px 140px;
-          height: 45px;
-          column-gap: 1rem;
-          margin-left: 1rem;
-          margin-top: 2rem;
-          &_chrome {
-            background-color: hsl(231, 69%, 60%);
-            cursor: pointer;
-            border: none;
-            color: #fff;
-            border-radius: 8px;
-            font-size: 14px;
-            font-family: Rubik;
-          }
-          &_firefox {
-            background-color: #eaeaea;
-            border: none;
-            color: #000;
-            font-size: 14px;
-            border-radius: 8px;
-            box-shadow: 3px 2px 5px 0 grey;
-            font-family: Rubik;
-          }
-        }
-      }
-    }
-    .bookmark-feature__text {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      width: 360px;
-      
-      &_title {
-        display: flex;
-        justify-content: center;
-        margin-top: 10rem;
-        font-family: Rubik;
-        font-size: 18px;
-        font-weight: 500
-      }
-      
-      &_paragraph {
-        font-family: "Roboto";
-        text-align: center;
-        font-weight: 400;
-        color: #a9a4a4;
-        padding: 2rem;
-        font-size: 14px;
-        justify-content: center;
-      }
-    }
+    flex-direction: row;
+    background-color: aqua
   }
 }
+@import url(../index.scss);
 </style>

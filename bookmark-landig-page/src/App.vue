@@ -1,9 +1,9 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import Bookmark from './components/Bookmark.vue'
 </script>
 
 <template>
-  <HelloWorld msg="Vite + Vue" />
+  <Bookmark msg="Vite + Vue" />
 </template>
 
 <style scoped>
